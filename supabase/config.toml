@@ -1,0 +1,4 @@
+project_id = "svsxbpxjxetqyuwknpzy"
+
+[functions.generate-cover-letter]
+verify_jwt = false
